@@ -1,9 +1,11 @@
-| [home page](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) | [Redlining in Milwaukee County](milwaukee-redlining) |
+| [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) | [Redlining in Milwaukee County](milwaukee-redlining) |
 
 ## About
 I developed these visuals as part of graduate coursework focused on Tableau and telling stories with data. I created the first visual - a heat map - following general course instructions for heat map production and specific assignment instructions. For the second visual, I was instructed to develop any data visualization I thought would best highlight a story I found within the same dataset. That visual, and more details on the development process, are found under exhibit 2, below.
 
-## Exhibit 1: Heat map of national debt to GDP ratio.
+## Key Visuals
+
+**Exhibit 1: Heat Map Visualizing Government Debt**
 
 The following visualization draws upon the same data from OECD on national debt to GDP ratio but visualizes it as a heat map instead, and shows how government debt has changed over time across countries. I created this visual using Tableau and following specific course instructions.
 
@@ -19,7 +21,7 @@ The following visualization draws upon the same data from OECD on national debt 
 
 [Source](https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2022&oecdcontrol-0b0bb95ebb-var1=OECD_REP%7CCAN%7CCHL%7CCOL%7CCRI%7CMEX%7CUSA%7CGBR%7CTUR%7CCHE%7CSWE%7CESP%7CSVN%7CSVK%7CPRT%7CPOL%7CNOR%7CNZL%7CNLD%7CLUX%7CLTU%7CLVA%7CKOR%7CJPN%7CITA%7CISR%7CIRL%7CISL%7CHUN%7CGRC%7CDEU%7CFRA%7CFIN%7CEST%7CDNK%7CCZE%7CBEL%7CAUT%7CAUS)
 
-## Exhibit 2: Independent visualization using the same dataset
+**Exhibit 2: Independent Visualization Using the Same Dataset**
 
 I created the following visual using Tableau to help visualize the extent to which Japan's national debt to GDP ratio is an outlier, even among countries with high debt to GDP ratios. 
 
