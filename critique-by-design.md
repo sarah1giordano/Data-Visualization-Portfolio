@@ -1,7 +1,5 @@
 | [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) |
  
-# Critiquing and Redesigning a Visual on the Human Development Index over Time
-
 ## About
 
 I developed this visual as part of graduate coursework focused on Tableau and telling stories with data. This particular assignment focused on identifying an existing visual, critiquing the design, and producing an updated version to better convey what I identified as key ideas. My final visual is below under **Key Visual**.
