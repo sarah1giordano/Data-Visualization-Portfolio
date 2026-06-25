@@ -29,6 +29,7 @@ I chose the below visual on the Human Development Index (HDI) over time for my r
 [Source]([https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2022&oecdcontrol-0b0bb95ebb-var1=OECD_REP%7CCAN%7CCHL%7CCOL%7CCRI%7CMEX%7CUSA%7CGBR%7CTUR%7CCHE%7CSWE%7CESP%7CSVN%7CSVK%7CPRT%7CPOL%7CNOR%7CNZL%7CNLD%7CLUX%7CLTU%7CLVA%7CKOR%7CJPN%7CITA%7CISR%7CIRL%7CISL%7CHUN%7CGRC%7CDEU%7CFRA%7CFIN%7CEST%7CDNK%7CCZE%7CBEL%7CAUT%7CAUS](https://www.bbc.com/news/world-62824357.amp))
 
 When examining this visual, I had the following notes and critiques:
+
 **What worked well:** One of the first messages I took away from the visualization was that, overall, HDI declined in 2020 compared to where it was projected. This was clearly communicated based on the different colors of the projected and actual lines and the dashed line for projected HDI. It is also intuitive to read. The lack of gridlines, simple color scheme, and minimal detail also worked well aesthetically, allowing for quick understanding. I do wish that aesthetically the colors and typeface were a bit more pleasing, but overall, the aesthetic choices increase understandability instead of detract from it. 
 
 **What did not work as well:** While it was clear that the designer wanted to convey that the financial crisis and Covid-19 were important in terms of Global Human Development, only the Covid 19 pandemic was associated with a clear change in HDI. I was left wondering why they bothered to highlight the global financial crisis. Was it to convey that HDI overall didn't decrease during the crisis, contrary to expectations? Or was it included because for some countries, this did have a negative impact (and we just cannot see this because the data are aggregated?) 
@@ -131,7 +132,7 @@ Clear takeaways:
 
 4. Think through what data are necessary. Life expectancy was not - that seemed redundant and obvious to reviewer #1. But more gradation on country-level change was of interest.
 
-## Step four, part B: test the redesign in class
+**Feedback from Class Discussion**
 
 Based on the initial feedback I received from these reviewers, I developed the following solution. 
 
