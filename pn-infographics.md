@@ -7,4 +7,4 @@ Please note if viewing the full Department of Education infographic site that I 
 
 ## Key Visuals
 
-<img src="pn bg infographic.png" width="600"/>
+<img src="pn bg info.png" width="600"/>
