@@ -1,4 +1,4 @@
-| [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) | [Redlining in Milwaukee County](milwaukee-redlining) |
+| [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) | 
 
 # About me
 Sarah Giordano, Master of Science in Public Policy and Management (MSPPM), current Research Associate at Westat and graduate Research Assistant at Carnegie Mellon University supporting research into wage insurance policies led by Dr. Brian Kovak.
@@ -39,6 +39,3 @@ Evaluation of the Trade Institute of Pittsburgh's (TIP) recent program changes o
 
 ## [Graduate Economic Development Coursework - Examining Industry and Occupational Shifts and Concerns in Milwaukee County]
 Exploring industry shifts in Milwaukee County and opportunities for occupational investments, using R and Excel. 
-
-## [Graduate Economic Development Coursework - Examining Associations between Historical Redlining and Current Neighborhood Features in Milwaukee County]
-Exploring the potential impacts of redlining on Milwaukee County neighborhoods in the present day, using R.
