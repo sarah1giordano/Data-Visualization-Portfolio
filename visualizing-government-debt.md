@@ -1,5 +1,7 @@
 | [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Industries and Occupation in Milwaukee County](milwaukee-industry) |
 
+# Visualizing Government Debt 
+
 ## About
 I developed these visuals as part of graduate coursework focused on Tableau and telling stories with data. I created the first visual - a heat map - following general course instructions for heat map production and specific assignment instructions. For the second visual, I was instructed to develop any data visualization I thought would best highlight a story I found within the same dataset. That visual, and more details on the development process, are found under exhibit 2, below.
 
