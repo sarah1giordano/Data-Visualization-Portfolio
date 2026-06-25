@@ -1,4 +1,4 @@
-| [home page](https://sarah1giordano.github.io/Giordano-Data-Viz/) | [visualizing government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) | [Redlining in Milwaukee County](milwaukee-redlining) |
 
 
 # Outline
