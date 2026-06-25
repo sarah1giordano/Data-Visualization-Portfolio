@@ -1,14 +1,14 @@
-| [home page](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) |
+| [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Exmaining Industries and Occupation in Milwaukee County](milwaukee-industry) |
  
 # Critiquing and Redesigning a Visual on the Human Development Index over Time
 
 ## About
 
-I developed this visual as part of graduate coursework focused on Tableau and telling stories with data. This particular assignment focused on identifying an existing visual, critiquing the design, and producing an updated version to better convey what I identified as key ideas. My final visual is below under **Redesigned Visualization**.
+I developed this visual as part of graduate coursework focused on Tableau and telling stories with data. This particular assignment focused on identifying an existing visual, critiquing the design, and producing an updated version to better convey what I identified as key ideas. My final visual is below under **Key Visual**.
 
 For more information on the original visualization that I critiqued and redesigned, and my process for doing so, please see below under **Process**.
 
-## Final Visual
+## Key Visuals
 
 <div class='tableauPlaceholder' id='viz1731464006753' style='position: relative'><noscript><a href='#'><img alt='In the past 30 years, the world has never seen a global drop in life expectancy similar to the one caused by COVID-19. The map below shows percent change in life expectancy in 2020 for each country relative to the previous year.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDCritiquebyDesign&#47;MapOption3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWDCritiquebyDesign&#47;MapOption3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWDCritiquebyDesign&#47;MapOption3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
@@ -22,7 +22,7 @@ For more information on the original visualization that I critiqued and redesign
 
 ## Process
 
-I chose the below visual on the Human Development Index (HDI) over time.
+I chose the below visual on the Human Development Index (HDI) over time for my redesign.
 
 <img src="HDI Original.png" width="600"/>
 
