@@ -1,7 +1,9 @@
 | [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Industries and Occupation in Milwaukee County](milwaukee-industry) |
 
+# Evaluation of Trade Institute of Pittsburgh (TIP) Programming
+
 ## About
-I developed these visuals as part of my graduate capstone project evaluation te Trade Institute of Pittsburgh's (TIP) recent program changes on participant employment, earnings, and recidivism. I produced these visuals using Python and PowerPoint visual designer, and in collaboration with Nikki Chen. The visuals below are selected exhibits from a larger report.
+I developed these visuals as part of my graduate capstone project evaluation of TIP's recent program changes on participant employment, earnings, and recidivism. I produced these visuals using Python and PowerPoint visual designer, and in collaboration with Nikki Chen. The visuals below are selected exhibits from a larger report.
 
 ## Key Visuals
 
