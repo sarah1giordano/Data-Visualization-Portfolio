@@ -5,10 +5,11 @@ I developed this visual as part of graduate coursework focused on local and regi
 
 ## Key Visuals     
 
-**Exhibit 1: Location Quotient for Milwaukee County Growing Industries
+**Exhibit 1: Location Quotient for Milwaukee County Growing Industries**
+
 <img src="mke industry 1.png" width="600"/>
 
-**Exhibit 2: Wage Gaps within Key Occupations by Select Demographic Groups
+**Exhibit 2: Wage Gaps within Key Occupations by Select Demographic Groups**
 
 <img src="mke industry 2.png" width="600"/>    
 
