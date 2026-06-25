@@ -10,8 +10,6 @@ Evaluation of the Trade Institute of Pittsburgh's (TIP) recent program changes o
 
 <img src="tip exhibit 4.png" width="600"/>
 
-<img src="tip exhibit 6.png" width="600"/>
-
 <img src="tip exhibit 7.png" width="600"/>
 
 <img src="tip exhibit 9.png" width="600"/>
