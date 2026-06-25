@@ -34,8 +34,8 @@ Additional information on the process I used to create this final project is ava
 
 [Part III](final-project-part-three)
 
-## [Graduate Capstone Project - Evaluation of the Trade Institute of Pittsburgh's Programming]
+## [Graduate Capstone Project - Evaluation of the Trade Institute of Pittsburgh's Programming](tip)
 Evaluation of the Trade Institute of Pittsburgh's (TIP) recent program changes on participant employment, earnings, and recidivism. Visuals produced using Python.
 
-## [Graduate Economic Development Coursework - Examining Industry and Occupational Shifts and Concerns in Milwaukee County]
+## [Graduate Economic Development Coursework - Examining Industry and Occupational Shifts and Concerns in Milwaukee County](milwaukee-industry)
 Exploring industry shifts in Milwaukee County and opportunities for occupational investments, using R and Excel. 
