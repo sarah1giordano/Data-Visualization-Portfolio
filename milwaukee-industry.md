@@ -3,8 +3,12 @@
 ## About
 I developed this visual as part of graduate coursework focused on local and regional economic development, and using R. This particular assignment focused on identifying industry trends in Milwaukee County compared to the United States writ large and identifying opportunities and concerns for workforce development and policy investments in the county. I created the first visualization using Excel, and the second two visualizations using R.
 
-## Key Visuals                                                                                                                                                                                                                                                                                                                                                                                                                                              
+## Key Visuals     
+
+**Exhibit 1: Location Quotient for Milwaukee County Growing Industries
 <img src="mke industry 1.png" width="600"/>
+
+**Exhibit 2: Wage Gaps within Key Occupations by Select Demographic Groups
 
 <img src="mke industry 2.png" width="600"/>    
 
