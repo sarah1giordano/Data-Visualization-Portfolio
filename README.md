@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 - [Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/)
 - [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief)
 - [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk)
