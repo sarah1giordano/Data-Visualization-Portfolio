@@ -5,9 +5,9 @@
   <a href="pn-infographics">Promise Neighborhood Infographics</a>
   <a href="visualizing-government-debt">Visualizing Government Debt</a>
   <a href="critique-by-design">Critiquing Visuals through Redesign</a>
-  <a href="https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html">Examining Housing Costs and Public Housing Availability in Pittsburgh</a>
+  <a href="https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html">Pittsburgh Public Housing</a>
   <a href="tip">Evaluation of TIP Programming</a>
-  <a href="milwaukee-industry">Industries and Occupation in Milwaukee County</a>
+  <a href="milwaukee-industry">Industries of Milwaukee County</a>
 </nav>
 
 # About me
