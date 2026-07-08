@@ -1,4 +1,4 @@
-<nav style="display:flex; flex-wrap:wrap; gap:8px 18px; padding:12px 18px; background:#f6f8fa; border:1px solid #e1e4e8; border-radius:6px; margin:0 0 24px; font-size:14px;">
+<nav style="display:flex; flex-wrap:wrap; gap:8px 18px; padding:14px 24px; background:#f6f8fa; border-top:1px solid #e1e4e8; border-bottom:1px solid #e1e4e8; width:100vw; margin-left:calc(-50vw + 50%); box-sizing:border-box; font-size:14px;">
   <a href="https://sarah1giordano.github.io/Data-Visualization-Portfolio/">Home</a>
   <a href="diaper-distribution-pilot-overview-brief">Diaper Distribution Pilot Overview Brief</a>
   <a href="diaper-distribution-pilot-bulk">Diaper Distribution Pilot Buying Diapers in Bulk</a>
