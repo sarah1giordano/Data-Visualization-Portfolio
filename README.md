@@ -1,4 +1,14 @@
-[Home](https://sarah1giordano.github.io/Data-Visualization-Portfolio/) | [Diaper Distribution Pilot Overview Brief](diaper-distribution-pilot-overview-brief) | [Diaper Distribution Pilot Buying Diapers in Bulk](diaper-distribution-pilot-bulk) | [Promise Neighborhood Infographics](pn-infographics) | [Visualizing Government Debt](visualizing-government-debt) | [Critiquing Visuals through Redesign](critique-by-design) | [Examining Housing Costs and Public Housing Availability in Pittsburgh](https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html) | [Evaluation of TIP Programming](tip) | [Industries and Occupation in Milwaukee County](milwaukee-industry)
+<nav style="display:flex; flex-wrap:wrap; gap:8px 18px; padding:12px 18px; background:#f6f8fa; border:1px solid #e1e4e8; border-radius:6px; margin:0 0 24px; font-size:14px;">
+  <a href="https://sarah1giordano.github.io/Data-Visualization-Portfolio/">Home</a>
+  <a href="diaper-distribution-pilot-overview-brief">Diaper Distribution Pilot Overview Brief</a>
+  <a href="diaper-distribution-pilot-bulk">Diaper Distribution Pilot Buying Diapers in Bulk</a>
+  <a href="pn-infographics">Promise Neighborhood Infographics</a>
+  <a href="visualizing-government-debt">Visualizing Government Debt</a>
+  <a href="critique-by-design">Critiquing Visuals through Redesign</a>
+  <a href="https://carnegiemellon.shorthandstories.com/pittsburghs-emerging-housing-crisis/index.html">Examining Housing Costs and Public Housing Availability in Pittsburgh</a>
+  <a href="tip">Evaluation of TIP Programming</a>
+  <a href="milwaukee-industry">Industries and Occupation in Milwaukee County</a>
+</nav>
 
 # About me
 Sarah Giordano, Master of Science in Public Policy and Management (MSPPM), current Research Associate at Westat and graduate Research Assistant at Carnegie Mellon University supporting research into wage insurance policies led by Dr. Brian Kovak.
